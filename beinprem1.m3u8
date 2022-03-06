@@ -1,4 +1,14 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://live2.cd001km.com:443/live/5719125_3e4b37d433520ed576cd680e9c6447d1.m3u8?auth_key=1646543748-0-0-ddd2729d9c647eeb0cdf8db61a56584e
+HTTP/1.1 302 Found
+Date: Sun, 06 Mar 2022 07:40:41 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/7.4.5
+Access-Control-Allow-Origin: *
+Location: http://meotox.com:8080/Patricia32/Delgado43/33636?token=T2kxZjluSlA5QkkzbkxW
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8DpppDGo0I0v5J16twNeaRUIu09H837a1KLKf6Wjv8i6QLCoBHdxKg0%2FW0iFQ3pGEBroX052%2B4KgNfzKaf55Lv%2FHlrPLWwU2dr3PxwvVrkXJwfiTRA1%2FaRQEK0YWlMeMOx33bg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 6e7971d079cf49ba-SIN
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
