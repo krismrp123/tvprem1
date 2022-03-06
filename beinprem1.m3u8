@@ -1,10 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-http://meotox.com:8080/Patricia32/Delgado43/33636?token=T2kxZjluSlA5QkkzbkxW
-CF-Cache-Status: DYNAMIC
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8DpppDGo0I0v5J16twNeaRUIu09H837a1KLKf6Wjv8i6QLCoBHdxKg0%2FW0iFQ3pGEBroX052%2B4KgNfzKaf55Lv%2FHlrPLWwU2dr3PxwvVrkXJwfiTRA1%2FaRQEK0YWlMeMOx33bg%3D%3D"}],"group":"cf-nel","max_age":604800}
-NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
-Server: cloudflare
-CF-RAY: 6e7971d079cf49ba-SIN
-alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+http://gold4ever.io:8080/Patricia32/Delgado43/33636
